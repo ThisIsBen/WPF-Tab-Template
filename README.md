@@ -34,10 +34,10 @@ OneWay: bound property -update-> the user interface.\
 TwoWay: bound property <-update-> the user interface.\
         (You would use this with a TextBox or a Checkbox, for example.)\
 OneTime: bound property -update-> the user interface. However, it will only update the user interface one time.\
-OneWayToSource: bound property <-update- the user interface.　This is the opposite of OneWay.\
+OneWayToSource: bound property <-update- the user interface.　This is the opposite of OneWay.
 
 
 ガス湯沸し器が故障しました。修理してもらいますか\
 鍵盤が軽すぎて調整できますか\
-湯沸かしポット\
+湯沸かしポット
 
